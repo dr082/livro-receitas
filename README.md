@@ -2,4 +2,5 @@
 
 Olá! Bme vindo ao meu livro de receitas 
 
-- receita1 
+- Receita1
+- Receita2
