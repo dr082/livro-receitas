@@ -7,3 +7,7 @@ Olá! Bem vindos ao meu livro de receitas
 - receita 3
 - receita 4
 - receita 5
+- Receita 7
+- Receita 8
+- Receita 9
+- Receita 10
