@@ -2,7 +2,7 @@
 
 Olá! Bem vindos ao meu livro de receitas 
 
-- Receita1
-- Receita2
+- Receita 1
+- Receita 2
 - receita 3
-- 
+- receita 4
